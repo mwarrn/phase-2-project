@@ -1,0 +1,136 @@
+{
+  "shifts": [
+    {
+      "date": "2022-06-19",
+      "uph": "42.4",
+      "packRate": "78",
+      "cysRate": "85",
+      "indirectRate": "71",
+      "percentToCys": "94",
+      "lateSlam": "29.56",
+      "lateBatch": "5.05",
+      "id": 1
+    },
+    {
+      "date": "2022-06-20",
+      "uph": "41.7",
+      "packRate": "75",
+      "cysRate": "85",
+      "indirectRate": "67",
+      "percentToCys": "89",
+      "lateSlam": "6",
+      "lateBatch": 0,
+      "id": 2
+    },
+    {
+      "date": "2022-06-21",
+      "uph": "39.9",
+      "packRate": "72",
+      "cysRate": "80",
+      "indirectRate": "62",
+      "percentToCys": "87",
+      "lateSlam": "11.23",
+      "lateBatch": 0,
+      "id": 3
+    },
+    {
+      "date": "2022-06-22",
+      "uph": "36.7",
+      "packRate": "78",
+      "cysRate": "80",
+      "indirectRate": "70",
+      "percentToCys": "99",
+      "lateSlam": "6.30",
+      "lateBatch": 0,
+      "id": 4
+    },
+    {
+      "date": "2022-06-26",
+      "uph": "44.2",
+      "packRate": "79",
+      "cysRate": "80",
+      "indirectRate": "70",
+      "percentToCys": "98",
+      "lateSlam": "12.40",
+      "lateBatch": "13.18",
+      "id": 5
+    },
+    {
+      "date": "2022-06-27",
+      "uph": "41.1",
+      "packRate": "82",
+      "cysRate": "80",
+      "indirectRate": "73",
+      "percentToCys": "101",
+      "lateSlam": "0.51",
+      "lateBatch": 0,
+      "id": 6
+    },
+    {
+      "date": "2022-06-28",
+      "uph": "38.6",
+      "packRate": "80",
+      "cysRate": "80",
+      "indirectRate": "71",
+      "percentToCys": "99",
+      "lateSlam": "1.94",
+      "lateBatch": "1.17",
+      "id": 7
+    },
+    {
+      "date": "2022-07-03",
+      "uph": "38.6",
+      "packRate": "79",
+      "cysRate": "78",
+      "indirectRate": "72",
+      "percentToCys": "103",
+      "lateSlam": "6.52",
+      "lateBatch": 0,
+      "id": 8
+    },
+    {
+      "date": "2022-07-04",
+      "uph": "35.4",
+      "packRate": "76",
+      "cysRate": "77",
+      "indirectRate": "66",
+      "percentToCys": "95",
+      "lateSlam": "7.17",
+      "lateBatch": 0,
+      "id": 9
+    },
+    {
+      "date": "2022-07-05",
+      "uph": "39.1",
+      "packRate": "75",
+      "cysRate": "78",
+      "indirectRate": "68",
+      "percentToCys": "97",
+      "lateSlam": "1.53",
+      "lateBatch": 0,
+      "id": 10
+    },
+    {
+      "date": "2022-07-06",
+      "uph": "34.5",
+      "packRate": "75",
+      "cysRate": "78",
+      "indirectRate": "66",
+      "percentToCys": "95",
+      "lateSlam": "1.76",
+      "lateBatch": 0,
+      "id": 11
+    },
+    {
+      "date": "2022-07-12",
+      "uph": "35.6",
+      "packRate": "76",
+      "cysRate": "79",
+      "indirectRate": "68",
+      "percentToCys": "96",
+      "lateSlam": "0.47",
+      "lateBatch": 0,
+      "id": 12
+    }
+  ]
+}
